@@ -5,15 +5,14 @@
   <br>
   <div>
     <img src="nameless.png" align="left" height="150" width="125"/>
-    <p size="20"><strong>TestMango-sudo</strong></p>
-    <br><br>
-  </div>
+    <p size="20"><strong>TestMango-sudo</strong></p> 
+  </div><br>
   <p align="left">
     I'm an aspiring Developer and having just completed a software development course with Northcoders, I'm looking to land my first job as a software developer.
     I am familiar with Javascript, Python and have designed projects front and back end projects using react, flask and both relational and non-relational databases.  
   </p>
 </div>
-
+<br>
 ```JavaScript
         export function aspiringDeveloper()  { 
         Location: North-West England; 
