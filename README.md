@@ -14,19 +14,19 @@
 </div>
 <br>
 
-```JavaScript
-        export function aspiringDeveloper()  { 
-        Location: North-West England; 
-        height: 187cm; 
-        type: male; 
-        currentlyWorkingOn: Stack-Dew-Valley Project.🔭 ;
-        techStack: ['JavaScript', 'Python', 'CSS', 'HTML', 'SQL'];
-        Tools: ['React', 'VUE', 'Jinja', 'Flask'];
-        😄Pronouns: He/him;
-        📫How to reach me: 'testmango1965@yahoo.com;
-        ⚡Fun fact1: 'Previously working in Mechanical / Electrical Engineering and I.T support gives me a unique take on problem solving'
-        ⚡Fun fact1: I'm conversely a bit of a night owl, but also an early bird. 🤷
-        currentlyLearning: [TypeScript, Phaser]
+```javascript
+export function aspiringDeveloper()  {
+        Location: North-West England, 
+        height: 187cm,
+        type: male,
+        currentlyWorkingOn: Stack-Dew-Valley Project🔭,
+        techStack: ['JavaScript', 'Python', 'CSS', 'HTML', 'SQL'],
+        Tools: ['React', 'VUE', 'Jinja', 'Flask'],
+        😄Pronouns: 'He/him',
+        📫How to reach me: 'testmango1965@yahoo.com',
+        ⚡Fun fact1: 'Previously working in Mechanical / Electrical Engineering and I.T support gives me a unique take on problem solving',
+        ⚡Fun fact1: I'm conversely a bit of a night owl, but also an early bird.🤷,
+        currentlyLearning: ['TypeScript', 'Phaser']
 }
 ```  
 
