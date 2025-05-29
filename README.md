@@ -18,7 +18,8 @@ export function aspiringDeveloper()  {
   currentlyLearning: [TypeScript, Phaser]
 }
 
-Currently I'm completing a final project from my time at Northcoders, called StackDew Valley. Find out more here: <button href="https://www.northcoders.com/blog/student-projects-stack-dew-valley/"">StackDew Blog</button>
+Currently I'm completing a final project from my time at Northcoders, called StackDew Valley.
+Find out more here:<script><button href="https://www.northcoders.com/blog/student-projects-stack-dew-valley/"">StackDew Blog</button></script>
 
 
 <!--
