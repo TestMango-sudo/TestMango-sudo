@@ -19,7 +19,7 @@ export function aspiringDeveloper()  {
 }
 
 Currently I'm completing a final project from my time at Northcoders, called StackDew Valley.
-Find out more here:<script><a href="https://www.northcoders.com/blog/student-projects-stack-dew-valley/"" style="background-color: purple; border-radius: 10px; color: white;">StackDew Blog</a></script>
+Find out more here:<a href="https://www.northcoders.com/blog/student-projects-stack-dew-valley/"" style="background-color: purple; border-radius: 10px; color: white;">StackDew Blog</a>
 
 
 <!--
