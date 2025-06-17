@@ -1,3 +1,4 @@
+[![](https://img.shields.io/static/v1?label=Contact&message=Me&logo=GitHub&color=blue)](mailto:pmcdonagh.charmel@gmail.com) 
 <div>
   <h2>👋 Hi there! Paul here.</h2>  
   <br>
@@ -9,7 +10,7 @@
   </div><br>
   <p align="left">
     I'm an aspiring Developer and having just completed a software development course with Northcoders, I'm looking to land my first job as a junior software developer.
-    I am familiar with Javascript, Python, html and CSS and have designed both front and back end projects using react and flask with theuse of both relational and non-relational databases.  
+    I am familiar with Javascript, Python, html and CSS and have designed both front and back end projects using react and flask with the use of both relational and non-relational databases.  
   </p>
 </div>
 <br>
