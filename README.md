@@ -8,8 +8,8 @@
     <p size="20"><strong>TestMango-sudo</strong></p> 
   </div><br>
   <p align="left">
-    I'm an aspiring Developer and having just completed a software development course with Northcoders, I'm looking to land my first job as a software developer.
-    I am familiar with Javascript, Python and have designed projects front and back end projects using react, flask and both relational and non-relational databases.  
+    I'm an aspiring Developer and having just completed a software development course with Northcoders, I'm looking to land my first job as a junior software developer.
+    I am familiar with Javascript, Python, html and CSS and have designed both front and back end projects using react and flask with theuse of both relational and non-relational databases.  
   </p>
 </div>
 <br>
